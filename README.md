@@ -6,3 +6,7 @@ get one line info from your stack trace
     const stack = require('one-line-stack-trace'),
     err = new Error('not found');
     console.log("trace", stack(err.stack));
+#### performance
+    npm run performance
+
+console.error takes 25% less time to print traces processed by the library
