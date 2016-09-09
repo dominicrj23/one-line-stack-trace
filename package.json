@@ -1,11 +1,11 @@
 {
   "name": "one-line-stack-trace",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "get one line info from your stack trace",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "performance" : "node test.js 2>/dev/null"
+    "performance": "node test.js 2>/dev/null"
   },
   "repository": {
     "type": "git",
