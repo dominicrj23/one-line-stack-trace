@@ -1,6 +1,6 @@
 {
   "name": "one-line-stack-trace",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "get one line info from your stack trace",
   "main": "index.js",
   "scripts": {
