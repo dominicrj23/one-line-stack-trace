@@ -1,5 +1,5 @@
 'use strict';
-const lineNotInternal = /(^.*\((?!.*node_module.*|.*internal\/process.*|.*timers.*).*\))/m,
+const lineNotInternal = /(^.*at.*(?!.*node_module.*|.*internal\/process.*|.*timers.*).*)/m,
 mod = /node_modules\/(\w+)\//,
 errorLine = /^(.*Error.*)$/m;
 module.exports = stack => {
