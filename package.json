@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/dominicrj23/one-line-stack-trace/issues"
   },
+  "tonicExampleFilename": "example.js",
   "homepage": "https://github.com/dominicrj23/one-line-stack-trace#readme"
 }
